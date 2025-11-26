@@ -1,4 +1,4 @@
-```markdown
+
 # Netflix Movie Website Clone
 
 A responsive static clone of the Netflix landing page built with plain HTML, Tailwind (via CDN) and vanilla JavaScript. This project is intended as a practice UI implementation to learn layout, responsive styling and simple UI interactions like carousels and accordions.
